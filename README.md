@@ -1,2 +1,2 @@
 # Fanpage
-Fanpage static html website
+static html website
